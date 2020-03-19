@@ -1,5 +1,0 @@
-* [快速上手](docs/quickstart)
-* [数据中心](docs/dataCenter)
-* [自定义事件](docs/globalEvent)
-* [集卡模板](docs/temp-card)
-* [打星球模板](docs/temp-ball)
