@@ -3,3 +3,4 @@
 * [自定义事件](doc/globalEvent)
 * [集卡模板](doc/temp-card)
 * [打星球模板](doc/temp-ball)
+* [文档模板](doc/temp-temp)
